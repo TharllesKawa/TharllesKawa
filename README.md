@@ -32,3 +32,5 @@
 
 
 Sou apaixonado pela tecnologia, e apaixonado por desenvolvimento principalmente de interfaces.
+
+![Snake animation](https://github.com/jhsonmac/jhsonmac/blob/output/github-contribution-grid-snake.svg)
